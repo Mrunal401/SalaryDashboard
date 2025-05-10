@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1745087123589,"sparkVersion":"3.5.5","uid":"StringIndexer_d4c06f55d39d","paramMap":{"inputCol":"experience_level","outputCol":"experience_level_index","handleInvalid":"keep"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_d4c06f55d39d__output"}}

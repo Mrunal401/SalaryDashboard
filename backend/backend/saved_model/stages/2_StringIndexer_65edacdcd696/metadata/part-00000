@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1745038538234,"sparkVersion":"3.5.5","uid":"StringIndexer_65edacdcd696","paramMap":{"outputCol":"salary_currency_index","inputCol":"salary_currency","handleInvalid":"keep"},"defaultParamMap":{"outputCol":"StringIndexer_65edacdcd696__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}
